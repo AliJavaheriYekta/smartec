@@ -56,6 +56,11 @@ if __name__ == '__main__':
     except OSError as error:
         print("folder scatters already exists!")
 
+    try:
+        os.makedirs('./stats/boxplots', exist_ok=True)
+    except OSError as error:
+        print("folder boxplots already exists!")
+
     # Create histograms for each column
     df.hist()
     plt.savefig("./stats/histograms", bbox_inches="tight",
@@ -67,10 +72,15 @@ if __name__ == '__main__':
         columns_temp.remove(co1)
         calc_statistics(df, co1)
         for co2 in columns_temp:
+            if co1 != 'hour':
+                df.boxplot(by=co2, column=[co1], grid=False)
+                plt.savefig('./stats/boxplots/' + co1 + '_' + co2, bbox_inches="tight",
+                            pad_inches=0.3, transparent=True)
             if co2 != 'hour':
                 df.plot.scatter(x=co1, y=co2)
                 plt.savefig('./stats/scatters/' + co1 + '_' + co2, bbox_inches="tight",
                             pad_inches=0.3, transparent=True)
+
 
     df.drop('hour', axis=1, inplace=True)
 
