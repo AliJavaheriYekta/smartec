@@ -1,0 +1,272 @@
+             hour        temp    humidity     pressure
+count  720.000000  720.000000  720.000000   720.000000
+mean    11.500000    6.571250   48.541667  1015.791667
+std      6.926999    1.241068    5.118723     2.800445
+min      0.000000    4.420000   42.000000  1012.000000
+25%      5.750000    5.775000   43.750000  1013.000000
+50%     11.500000    6.085000   49.000000  1016.000000
+75%     17.250000    7.785000   52.250000  1017.250000
+max     23.000000    8.430000   58.000000  1020.000000
+
+Median of hour: 11.5
+Mode of hour: 0
+Standard deviation of hour: 6.922186552431729
+Variance of hour: 47.916666666666664
+First quartile of hour: 5.75
+Third quartile of hour: 17.25
+Median of temp: 6.085
+Mode of temp: 4.42
+Standard deviation of temp: 1.2402060060731845
+Variance of temp: 1.5381109374999997
+First quartile of temp: 5.775
+Third quartile of temp: 7.785
+Median of humidity: 49.0
+Mode of humidity: 42
+Standard deviation of humidity: 5.115166718256166
+Variance of humidity: 26.164930555555557
+First quartile of humidity: 43.75
+Third quartile of humidity: 52.25
+Median of pressure: 1016.0
+Mode of pressure: 1012
+Standard deviation of pressure: 2.7984991017011644
+Variance of pressure: 7.831597222222223
+First quartile of pressure: 1013.0
+Third quartile of pressure: 1017.25
+             hour        temp    humidity     pressure
+count  720.000000  720.000000  720.000000   720.000000
+mean    11.500000    6.571250   48.541667  1015.791667
+std      6.926999    1.241068    5.118723     2.800445
+min      0.000000    4.420000   42.000000  1012.000000
+25%      5.750000    5.775000   43.750000  1013.000000
+50%     11.500000    6.085000   49.000000  1016.000000
+75%     17.250000    7.785000   52.250000  1017.250000
+max     23.000000    8.430000   58.000000  1020.000000
+
+Median of hour: 11.5
+Mode of hour: 0
+Standard deviation of hour: 6.922186552431729
+Variance of hour: 47.916666666666664
+First quartile of hour: 5.75
+Third quartile of hour: 17.25
+Median of temp: 6.085
+Mode of temp: 4.42
+Standard deviation of temp: 1.2402060060731845
+Variance of temp: 1.5381109374999997
+First quartile of temp: 5.775
+Third quartile of temp: 7.785
+Median of humidity: 49.0
+Mode of humidity: 42
+Standard deviation of humidity: 5.115166718256166
+Variance of humidity: 26.164930555555557
+First quartile of humidity: 43.75
+Third quartile of humidity: 52.25
+Median of pressure: 1016.0
+Mode of pressure: 1012
+Standard deviation of pressure: 2.7984991017011644
+Variance of pressure: 7.831597222222223
+First quartile of pressure: 1013.0
+Third quartile of pressure: 1017.25
+             hour        temp    humidity     pressure
+count  720.000000  720.000000  720.000000   720.000000
+mean    11.500000    6.571250   48.541667  1015.791667
+std      6.926999    1.241068    5.118723     2.800445
+min      0.000000    4.420000   42.000000  1012.000000
+25%      5.750000    5.775000   43.750000  1013.000000
+50%     11.500000    6.085000   49.000000  1016.000000
+75%     17.250000    7.785000   52.250000  1017.250000
+max     23.000000    8.430000   58.000000  1020.000000
+
+Median of hour: 11.5
+Mode of hour: 0
+Standard deviation of hour: 6.922186552431729
+Variance of hour: 47.916666666666664
+First quartile of hour: 5.75
+Third quartile of hour: 17.25
+Median of temp: 6.085
+Mode of temp: 4.42
+Standard deviation of temp: 1.2402060060731845
+Variance of temp: 1.5381109374999997
+First quartile of temp: 5.775
+Third quartile of temp: 7.785
+Median of humidity: 49.0
+Mode of humidity: 42
+Standard deviation of humidity: 5.115166718256166
+Variance of humidity: 26.164930555555557
+First quartile of humidity: 43.75
+Third quartile of humidity: 52.25
+Median of pressure: 1016.0
+Mode of pressure: 1012
+Standard deviation of pressure: 2.7984991017011644
+Variance of pressure: 7.831597222222223
+First quartile of pressure: 1013.0
+Third quartile of pressure: 1017.25
+             hour        temp    humidity     pressure
+count  720.000000  720.000000  720.000000   720.000000
+mean    11.500000    6.571250   48.541667  1015.791667
+std      6.926999    1.241068    5.118723     2.800445
+min      0.000000    4.420000   42.000000  1012.000000
+25%      5.750000    5.775000   43.750000  1013.000000
+50%     11.500000    6.085000   49.000000  1016.000000
+75%     17.250000    7.785000   52.250000  1017.250000
+max     23.000000    8.430000   58.000000  1020.000000
+
+Median of hour: 11.5
+Mode of hour: 0
+Standard deviation of hour: 6.922186552431729
+Variance of hour: 47.916666666666664
+First quartile of hour: 5.75
+Third quartile of hour: 17.25
+Median of temp: 6.085
+Mode of temp: 4.42
+Standard deviation of temp: 1.2402060060731845
+Variance of temp: 1.5381109374999997
+First quartile of temp: 5.775
+Third quartile of temp: 7.785
+Median of humidity: 49.0
+Mode of humidity: 42
+Standard deviation of humidity: 5.115166718256166
+Variance of humidity: 26.164930555555557
+First quartile of humidity: 43.75
+Third quartile of humidity: 52.25
+Median of pressure: 1016.0
+Mode of pressure: 1012
+Standard deviation of pressure: 2.7984991017011644
+Variance of pressure: 7.831597222222223
+First quartile of pressure: 1013.0
+Third quartile of pressure: 1017.25
+             hour        temp    humidity     pressure
+count  720.000000  720.000000  720.000000   720.000000
+mean    11.500000    6.571250   48.541667  1015.791667
+std      6.926999    1.241068    5.118723     2.800445
+min      0.000000    4.420000   42.000000  1012.000000
+25%      5.750000    5.775000   43.750000  1013.000000
+50%     11.500000    6.085000   49.000000  1016.000000
+75%     17.250000    7.785000   52.250000  1017.250000
+max     23.000000    8.430000   58.000000  1020.000000
+
+Median of hour: 11.5
+Mode of hour: 0
+Standard deviation of hour: 6.922186552431729
+Variance of hour: 47.916666666666664
+First quartile of hour: 5.75
+Third quartile of hour: 17.25
+Median of temp: 6.085
+Mode of temp: 4.42
+Standard deviation of temp: 1.2402060060731845
+Variance of temp: 1.5381109374999997
+First quartile of temp: 5.775
+Third quartile of temp: 7.785
+Median of humidity: 49.0
+Mode of humidity: 42
+Standard deviation of humidity: 5.115166718256166
+Variance of humidity: 26.164930555555557
+First quartile of humidity: 43.75
+Third quartile of humidity: 52.25
+Median of pressure: 1016.0
+Mode of pressure: 1012
+Standard deviation of pressure: 2.7984991017011644
+Variance of pressure: 7.831597222222223
+First quartile of pressure: 1013.0
+Third quartile of pressure: 1017.25
+             hour        temp    humidity     pressure
+count  720.000000  720.000000  720.000000   720.000000
+mean    11.500000    6.571250   48.541667  1015.791667
+std      6.926999    1.241068    5.118723     2.800445
+min      0.000000    4.420000   42.000000  1012.000000
+25%      5.750000    5.775000   43.750000  1013.000000
+50%     11.500000    6.085000   49.000000  1016.000000
+75%     17.250000    7.785000   52.250000  1017.250000
+max     23.000000    8.430000   58.000000  1020.000000
+
+Median of hour: 11.5
+Mode of hour: 0
+Standard deviation of hour: 6.922186552431729
+Variance of hour: 47.916666666666664
+First quartile of hour: 5.75
+Third quartile of hour: 17.25
+Median of temp: 6.085
+Mode of temp: 4.42
+Standard deviation of temp: 1.2402060060731845
+Variance of temp: 1.5381109374999997
+First quartile of temp: 5.775
+Third quartile of temp: 7.785
+Median of humidity: 49.0
+Mode of humidity: 42
+Standard deviation of humidity: 5.115166718256166
+Variance of humidity: 26.164930555555557
+First quartile of humidity: 43.75
+Third quartile of humidity: 52.25
+Median of pressure: 1016.0
+Mode of pressure: 1012
+Standard deviation of pressure: 2.7984991017011644
+Variance of pressure: 7.831597222222223
+First quartile of pressure: 1013.0
+Third quartile of pressure: 1017.25
+             hour        temp    humidity     pressure
+count  720.000000  720.000000  720.000000   720.000000
+mean    11.500000    6.571250   48.541667  1015.791667
+std      6.926999    1.241068    5.118723     2.800445
+min      0.000000    4.420000   42.000000  1012.000000
+25%      5.750000    5.775000   43.750000  1013.000000
+50%     11.500000    6.085000   49.000000  1016.000000
+75%     17.250000    7.785000   52.250000  1017.250000
+max     23.000000    8.430000   58.000000  1020.000000
+
+Median of hour: 11.5
+Mode of hour: 0
+Standard deviation of hour: 6.922186552431729
+Variance of hour: 47.916666666666664
+First quartile of hour: 5.75
+Third quartile of hour: 17.25
+Median of temp: 6.085
+Mode of temp: 4.42
+Standard deviation of temp: 1.2402060060731845
+Variance of temp: 1.5381109374999997
+First quartile of temp: 5.775
+Third quartile of temp: 7.785
+Median of humidity: 49.0
+Mode of humidity: 42
+Standard deviation of humidity: 5.115166718256166
+Variance of humidity: 26.164930555555557
+First quartile of humidity: 43.75
+Third quartile of humidity: 52.25
+Median of pressure: 1016.0
+Mode of pressure: 1012
+Standard deviation of pressure: 2.7984991017011644
+Variance of pressure: 7.831597222222223
+First quartile of pressure: 1013.0
+Third quartile of pressure: 1017.25
+             hour        temp    humidity     pressure
+count  720.000000  720.000000  720.000000   720.000000
+mean    11.500000    6.571250   48.541667  1015.791667
+std      6.926999    1.241068    5.118723     2.800445
+min      0.000000    4.420000   42.000000  1012.000000
+25%      5.750000    5.775000   43.750000  1013.000000
+50%     11.500000    6.085000   49.000000  1016.000000
+75%     17.250000    7.785000   52.250000  1017.250000
+max     23.000000    8.430000   58.000000  1020.000000
+
+Median of hour: 11.5
+Mode of hour: 0
+Standard deviation of hour: 6.922186552431729
+Variance of hour: 47.916666666666664
+First quartile of hour: 5.75
+Third quartile of hour: 17.25
+Median of temp: 6.085
+Mode of temp: 4.42
+Standard deviation of temp: 1.2402060060731845
+Variance of temp: 1.5381109374999997
+First quartile of temp: 5.775
+Third quartile of temp: 7.785
+Median of humidity: 49.0
+Mode of humidity: 42
+Standard deviation of humidity: 5.115166718256166
+Variance of humidity: 26.164930555555557
+First quartile of humidity: 43.75
+Third quartile of humidity: 52.25
+Median of pressure: 1016.0
+Mode of pressure: 1012
+Standard deviation of pressure: 2.7984991017011644
+Variance of pressure: 7.831597222222223
+First quartile of pressure: 1013.0
+Third quartile of pressure: 1017.25
